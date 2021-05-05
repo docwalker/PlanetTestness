@@ -1,0 +1,50 @@
+{
+"first_name": "James",
+"last_name": "Holden",
+"userid": "jholden",
+"groups": ["rocinante", "earthers"]
+}
+
+{
+"first_name": "Naomi",
+"last_name": "Nagata",
+"userid": "nnagata",
+"groups": ["rocinante", "beltalowda"]
+}
+
+{
+"first_name": "Alex",
+"last_name": "Kamal",
+"userid": "akamal",
+"groups": ["rocinante", "martians"]
+}
+
+{
+"first_name": "Amos",
+"last_name": "Burton",
+"userid": "aburton",
+"groups": ["rocinante", "earthers"]
+}
+
+{
+"first_name": "Fred",
+"last_name": "Johnson",
+"userid": "fjohnson",
+"groups": ["beltalowda"]
+}
+
+{
+"name": "rocinante"
+}
+
+{
+"name": "eathers"
+}
+
+{
+"name": "martians"
+}
+
+{
+"name": "beltalowda"
+}
