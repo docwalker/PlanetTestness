@@ -1,2 +1,2 @@
-from .p_userView import P_UserViewSet
-from .p_groupView import P_GroupViewSet
+from .p_userView import P_UserView
+from .p_groupView import P_GroupView
